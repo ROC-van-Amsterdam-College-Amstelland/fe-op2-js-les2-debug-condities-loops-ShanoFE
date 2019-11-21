@@ -8,7 +8,7 @@ function getAge()
 {
 var myAge=document.getElementById("myAge").value; //de eerste variabele is voor je aangemaakt...
 
-    if() //vul de juiste voorwaarde in!
+    if(true) //vul de juiste voorwaarde in!
         {
              //kies code hieronder
         }
